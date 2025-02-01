@@ -72,8 +72,5 @@ Final_V/
 - Cached responses are stored in `cache/`.
 - Run `proxy.py` with appropriate flags for additional functionalities.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 **Karthikeyan**
